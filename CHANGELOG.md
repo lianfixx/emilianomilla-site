@@ -7,3 +7,12 @@
 - Archivos: README.md, AGENTS.md, ia/REGLAS.md, ia/PROTOCOLO.md, CHANGELOG.md.
 - Verificación: escritura inicial en GitHub → confirmada; revisión funcional del sitio → no ejecutada.
 - Pendiente: inventariar fuentes y recursos originales; recuperar o reconstruir implementación con evidencia; añadir pruebas.
+
+
+## 2026-11-12 · Primera reconstrucción del portafolio público
+- Agente: ChatGPT (GPT-6)
+- Solicitud: recuperar los seis proyectos web y conservar los diseños públicos.
+- Cambios: se añadió una implementación estática reconstruida a partir de la inspección de la web pública; no se presenta como fuente original exportada.
+- Archivos: `index.html`.
+- Verificación: escritura en GitHub → confirmada; ejecución de pruebas en navegador y comparación visual pixel a pixel → no ejecutadas.
+- Pendiente: recuperar imágenes y documentos a almacenamiento local, contrastar todas las secciones con la versión pública y completar traducción EN.
