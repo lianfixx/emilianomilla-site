@@ -25,3 +25,12 @@ Preservar íntegramente el diseño, navegación, contenido, tipografía, paleta,
 3. Recuperar la implementación exacta cuando sea posible.
 4. Si la exportación no existe, reconstruir con fidelidad y documentar las diferencias.
 5. Ejecutar verificaciones y registrar limitaciones antes de declarar recuperación completa.
+
+
+## Implementación recuperada en este repositorio
+
+- `index.html`: reconstrucción estática de la portada y secciones públicas.
+- `docs/INSPECCION-PUBLICA.md`: inventario de secciones, rutas, activos y pendientes.
+- `.gitignore` y `.env.example`: protección de archivos privados; no hay secretos versionados.
+
+**Alcance:** reconstrucción basada en la versión pública inspeccionada, no exportación del código original de ChatGPT Sites. Los recursos de imagen y documentos aún apuntan al dominio público original. No se ha desplegado esta copia.
